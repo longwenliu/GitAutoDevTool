@@ -1,2 +1,4 @@
-build180610
+build180612
 -- Add a scripts of the GitAutoManageTool,To make the common git CMD easy.
+build180621
+-- Add some idea.     
